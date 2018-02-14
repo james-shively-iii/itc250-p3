@@ -7,5 +7,3 @@ This is an extra little bit of code that is more like a cod...and smells like on
 
 Are we going to be using the read me file for the whole group project? This is my first contribution to the group, no matter how much creativity is lacking!
     [Benjamin Beal]
-
-And we're done! 
